@@ -1,16 +1,17 @@
-### Hi there 👋
+[![@mirzasnr's Holopin board](https://holopin.me/mirzasnr)](https://holopin.io/@mirzasnr)
 
-<!--
-**MirzaSNR/MirzaSNR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋,I'm Mirza
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Student on Semarang State Polytechnic
+- 🌱 I’m currently learning Code
+- 👯 I’m looking to collaborate on code and design
+- 🤔 I’m looking for help with Everything
+- 💬 Ask me about Everything
+- 😄 Pronouns: Boy
+- ⚡ Fun fact: still learning and noob
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🤝 Connect with me:
+
+<a href="https://instagram.com/mirsnr"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://twitter.com/snrmirza" target="blank"><img src="https://img.shields.io/badge/@snrmirza_-30302f?style=flat&logo=twitter" /></a>
+   
